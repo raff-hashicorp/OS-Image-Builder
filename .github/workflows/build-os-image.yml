@@ -1,6 +1,6 @@
 name: Build OS Image
 
-on:
+on: workflow_dispatch
   push:
     branches:
       - develop
